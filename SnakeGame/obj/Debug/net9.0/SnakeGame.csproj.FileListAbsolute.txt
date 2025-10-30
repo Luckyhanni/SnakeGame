@@ -1,0 +1,15 @@
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\bin\Debug\net9.0\SnakeGame.exe
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\bin\Debug\net9.0\SnakeGame.deps.json
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\bin\Debug\net9.0\SnakeGame.runtimeconfig.json
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\bin\Debug\net9.0\SnakeGame.dll
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\bin\Debug\net9.0\SnakeGame.pdb
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.AssemblyInfo.cs
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.sourcelink.json
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.dll
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\refint\SnakeGame.dll
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.pdb
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\SnakeGame.genruntimeconfig.cache
+C:\Users\Johannes Blank\Desktop\SnakeGame\SnakeGame\obj\Debug\net9.0\ref\SnakeGame.dll
